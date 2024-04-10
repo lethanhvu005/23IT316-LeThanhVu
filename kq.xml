@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <student id="3">
+        <name>Nguyen Van 3</name>
+        <address>04 Ho Chi Minh</address>
+        <dob>2004-07-27</dob>
+        <age>19</age>
+        <encodedAge>91</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="4">
+        <name>Tran Thi B</name>
+        <address>123 Le Loi Street, Da Nang</address>
+        <dob>2005-09-15</dob>
+        <age>18</age>
+        <encodedAge>81</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="5">
+        <name>Le Van C</name>
+        <address>456 Nguyen Hue Street, Ho Chi Minh City</address>
+        <dob>2003-03-21</dob>
+        <age>21</age>
+        <encodedAge>12</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="6">
+        <name>Pham Thi D</name>
+        <address>789 Tran Hung Dao Street, Hanoi</address>
+        <dob>2002-11-05</dob>
+        <age>21</age>
+        <encodedAge>12</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="7">
+        <name>Hoang Van E</name>
+        <address>101 Nguyen Trai Street, Hue</address>
+        <dob>2001-08-12</dob>
+        <age>22</age>
+        <encodedAge>22</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="8">
+        <name>Nguyen Thi N</name>
+        <address>567 Le Lai Street, Can Tho</address>
+        <dob>2005-05-30</dob>
+        <age>18</age>
+        <encodedAge>81</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="8">
+        <name>Nguyen Thi K</name>
+        <address>567 Le Lai Street, Can Tho</address>
+        <dob>2013-05-30</dob>
+        <age>10</age>
+        <encodedAge>01</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+    <student id="8">
+        <name>Nguyen Thi L</name>
+        <address>567 Le Lai Street, Can Tho</address>
+        <dob>2021-05-30</dob>
+        <age>2</age>
+        <encodedAge>2</encodedAge>
+        <isDigitPrime>false</isDigitPrime>
+    </student>
+</class>

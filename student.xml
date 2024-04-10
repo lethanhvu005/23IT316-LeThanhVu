@@ -1,0 +1,52 @@
+<Students>
+    <Student>
+        <Id>3</Id>
+        <Name>Nguyen Van 3</Name>
+        <Address>04 Ho Chi Minh</Address>
+        <DateOfBirth>2004-07-27</DateOfBirth>
+    </Student>
+ 
+    <Student>
+        <Id>4</Id>
+        <Name>Tran Thi B</Name>
+        <Address>123 Le Loi Street, Da Nang</Address>
+        <DateOfBirth>2005-09-15</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>5</Id>
+        <Name>Le Van C</Name>
+        <Address>456 Nguyen Hue Street, Ho Chi Minh City</Address>
+        <DateOfBirth>2003-03-21</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>6</Id>
+        <Name>Pham Thi D</Name>
+        <Address>789 Tran Hung Dao Street, Hanoi</Address>
+        <DateOfBirth>2002-11-05</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>7</Id>
+        <Name>Hoang Van E</Name>
+        <Address>101 Nguyen Trai Street, Hue</Address>
+        <DateOfBirth>2001-08-12</DateOfBirth>
+    </Student>
+    <Student>
+        <Id>8</Id>
+        <Name>Nguyen Thi N</Name>
+        <Address>567 Le Lai Street, Can Tho</Address>
+        <DateOfBirth>2005-05-30</DateOfBirth>
+    </Student>
+<Student>
+        <Id>8</Id>
+        <Name>Nguyen Thi K</Name>
+        <Address>567 Le Lai Street, Can Tho</Address>
+        <DateOfBirth>2013-05-30</DateOfBirth>
+    </Student>
+<Student>
+        <Id>8</Id>
+        <Name>Nguyen Thi L</Name>
+        <Address>567 Le Lai Street, Can Tho</Address>
+        <DateOfBirth>2021-05-30</DateOfBirth>
+    </Student>
+
+</Students>
